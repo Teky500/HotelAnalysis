@@ -7,3 +7,6 @@ The way payment works in Glendinning Hall is as follows: Cards are pre-authorize
 # Transaction files
 The transaction CSV files are from the WebRez system used by Glendenning Hall.
 
+# Check-out files
+The check-out PDF files are also from the WebRez system. It is only possible to get a PDF file of the check-outs of the day, not multiple days at once. 
+PDFMerging.py is used to merge these PDF files together into a single one.
